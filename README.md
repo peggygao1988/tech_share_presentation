@@ -931,3 +931,4 @@ If you have personal support questions use [StackOverflow](http://stackoverflow.
 MIT licensed
 
 Copyright (C) 2014 Hakim El Hattab, http://hakim.se
+
