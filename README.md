@@ -7,11 +7,13 @@ Apply those themes by just modify the index.html
 to
 ```html
 	<link rel="stylesheet" href="css/theme/papaya.css" id="theme">
-```html
+```
 or
 ```html
 	<link rel="stylesheet" href="css/theme/appflood.css" id="theme">
-```html
+```
+
+Papayans just feel free to give geek-style presentations by thses 
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
 
