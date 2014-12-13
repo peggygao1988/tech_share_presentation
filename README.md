@@ -13,7 +13,8 @@ or
 	<link rel="stylesheet" href="css/theme/appflood.css" id="theme">
 ```
 
-Papayans just feel free to give geek-style presentations by thses 
+Papayans just feel free to give geek-style presentations by these
+@Jiaze
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
 
